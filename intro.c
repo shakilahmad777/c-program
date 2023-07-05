@@ -11,7 +11,7 @@ int main() {
     printf("sum is %d + %d = %d\n", a, b, sum);
     printf("sum is %d \n", sum);
 
-// Int to Double Type Cast function //
+// Double to Int Type Cast function //
     double c = 30.50;
         int d = (int)c;
         printf("Double number is %lf \n", c);
